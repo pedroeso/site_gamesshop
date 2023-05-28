@@ -8,8 +8,9 @@ header,
 section h2,
 section h3,
 form button {
-    font-family: 'Bungee', cursive;
-    font-weight: normal;
+            font-family: 'Bungee', cursive;
+        font-family: 'Koulen', cursive;
+        font-family: 'Rampart One', cursive;
 }
 
 body, input, textarea {
@@ -18,7 +19,7 @@ body, input, textarea {
 
 header {
     padding: 16px 0;
-    background-color: #182C61 ;
+    background-color: #7a4c06 ;
     color: #ecf0f1;
 }
 
@@ -48,7 +49,7 @@ section .container {
 }
 
 .brands-list img {
-    height: 24px;
+    height: 56px;
 }
 
 .brands-list li {
@@ -61,7 +62,7 @@ section .container {
 }
 
 section {
-    padding: 24px o;
+    padding: 32px o;
 }
 
 section h2 {
@@ -69,7 +70,7 @@ section h2 {
 }
 
 section {
-    color: #182C61;
+    color: #050300;
 }
 
 section p {
@@ -121,22 +122,22 @@ section h3 {
 }
 
 form button {
-    background-color: #182C61;
+    background-color:#7a4c06;
     color: #ecf0f1;
     border: none;
     cursor: pointer;
 }
 
 form button:hover {
-    background-color: #3556ae ;
+    background-color: #a26509 ;
 }
 
 input:focus, textarea:focus {
-    outline-color: #182C61;
+    outline-color:#7a4c06;
 }
 
 footer {
-    background-color:#182C61;
+    background-color:#7a4c06;
     color: #ecf0f1;
     padding: 16px 0;
 }
